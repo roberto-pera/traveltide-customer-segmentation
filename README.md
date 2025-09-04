@@ -42,13 +42,13 @@ No installation required. The analysis can be run directly on the PostgreSQL dat
 
 ## 🗂️ Directory Structure
 
-- `README.md`: Project documentation  
-- `customer_segmentation.sql`: Segmentation logic  
-- `Detailed Report.pdf`: Full report with findings and recommendations  
-- `Executive Summary.pdf`: High-level summary of insights  
-- `Presentation Slides.pptx`: Slide deck for presentation  
-- `sample_output_final.csv`: Example of final segment-level output incl. average metrics and recommended perks  
-- `schema.md`: Reference schema
+- [README.md](README.md): Project documentation  
+- [customer_segmentation.sql](customer_segmentation.sql): Segmentation logic  
+- [detailed_report.pdf](detailed_report.pdf): Full report with findings and recommendations  
+- [executive_summary.pdf](executive_summary.pdf): High-level summary of insights  
+- [presentation_slides.pptx](presentation_slides.pptx): Slide deck for presentation  
+- [sample_output_final.csv](sample_output_final.csv): Example of final segment-level output incl. average metrics and recommended perks  
+- [schema.md](schema.md): Reference schema
 
 ---
 
