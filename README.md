@@ -35,7 +35,7 @@ No installation required. The analysis can be run directly on the PostgreSQL dat
 
 1. Clone the repository
 2. Ensure your PostgreSQL database includes the required tables (`sessions`, `users`, `flights`, `hotels`)
-3. Run `customer_segmentation.sql`
+3. Run [customer_segmentation.sql](customer_segmentation.sql)
 4. Review the segment summary with user distribution, booking rates, and recommended actions
 
 ---
