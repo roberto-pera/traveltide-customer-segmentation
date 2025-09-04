@@ -20,8 +20,8 @@ Supporting materials include an executive summary slide deck, a detailed report,
 
 ## 🗄️ Database Connection
 
-You can connect to the PostgreSQL database using: 
-postgres://Test:bQNxVzJL4g6u@ep-noisy-flower-846766.us-east-2.aws.neon.tech/TravelTide?sslmode=require
+You can connect to the PostgreSQL database using:  
+`postgres://Test:bQNxVzJL4g6u@ep-noisy-flower-846766.us-east-2.aws.neon.tech/TravelTide?sslmode=require`
 
 ---
 
