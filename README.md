@@ -1,8 +1,9 @@
 ## README.md
 
-# Customer Segmentation and Retention Strategy for TravelTide ✈️
+# Customer Segmentation and Retention Strategy for TravelTide (Fictional Startup) ✈️
 
-This project applies a SQL-based segmentation approach to analyze customer behavior on a travel booking platform. It identifies distinct traveler segments, evaluates their booking and engagement patterns, and recommends targeted perks for a rewards program. The results translate behavioral data into actionable marketing strategies that strengthen retention and drive value.
+This project applies a SQL-based segmentation approach to analyze customer behavior for **TravelTide**, a **fictional e-booking startup**, on behalf of Elena Tarrant, the newly appointed Head of Marketing. The analysis identifies distinct traveler segments, evaluates their booking and engagement patterns, and recommends targeted perks for a rewards program. The results translate behavioral data into actionable marketing strategies that strengthen customer retention and drive value.
+
 
 ## 📊 Project Summary
 
