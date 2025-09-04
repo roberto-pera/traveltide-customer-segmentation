@@ -46,7 +46,7 @@ No installation required. The analysis can be run directly on the PostgreSQL dat
 - `customer_segmentation.sql`: Segmentation logic
 - `report/`: Detailed findings and recommendations
 - `slides/`: Executive summary deck
-- `sample_output.csv`: Example of segment-level output
+- `sample_output_final.csv`: Example of final segment-level output incl. average metrics and recommended perks
 - `schema.md`: Reference schema
 
 ---
